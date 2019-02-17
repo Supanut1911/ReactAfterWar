@@ -1,0 +1,58 @@
+{
+    "pokemon" : [
+    {
+        "id" : "1",
+        "pokemonName" : "Charmander",
+        "type" :"Fire",
+        "thumbnail" : "/image/pokemon/1.png"
+    },
+    {
+        "id" : "2",
+        "pokemonName" : "charmeleon",
+        "type" :"Fire",
+        "thumbnail" : "/image/pokemon/2.png"
+    },
+    {
+        "id" : "3",
+        "pokemonName" : "Charizard",
+        "type" :"Fire",
+        "thumbnail" : "/image/pokemon/3.png"
+    },
+    {
+        "id" : "4",
+        "pokemonName" : "Bulbasaur",
+        "type" :"Grass",
+        "thumbnail" : "/image/pokemon/4.png"
+    },
+    {
+        "id" : "5",
+        "pokemonName" : "Lvysaur",
+        "type" :"Grass",
+        "thumbnail" : "/image/pokemon/5.png"
+    },
+    {
+        "id" : "6",
+        "pokemonName" : "Venusaur",
+        "type" :"Grass",
+        "thumbnail" : "/image/pokemon/6.png"
+    },
+    {
+        "id" : "7",
+        "pokemonName" : "Squirtle",
+        "type" :"Water",
+        "thumbnail" : "/image/pokemon/7.png"
+    }
+    ,{
+        "id" : "8",
+        "pokemonName" : "Wartortle",
+        "type" :"Water",
+        "thumbnail" : "/image/pokemon/8.png"
+    }
+    ,{
+        "id" : "9",
+        "pokemonName" : "Blastoise",
+        "type" :"Water",
+        "thumbnail" : "/image/pokemon/9.png"
+    }       
+    ]
+}
